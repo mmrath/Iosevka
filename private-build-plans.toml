@@ -1,0 +1,3 @@
+[buildPlans.iosevka-murali]                         # <iosevka-custom> is your plan name
+family = "Iosevka Murali"                           # Font menu family name
+design = ["ss08", "expanded"] # Customize styles
