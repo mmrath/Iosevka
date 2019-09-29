@@ -9,15 +9,21 @@
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 100;
-	font-style: italic;
-	src: url('woff2/iosevka-murali-thinitalic.woff2') format('woff2'), url('woff/iosevka-murali-thinitalic.woff') format('woff'), url('ttf/iosevka-murali-thinitalic.ttf') format('truetype');
+	font-style: oblique;
+	src: url('woff2/iosevka-murali-thinoblique.woff2') format('woff2'), url('woff/iosevka-murali-thinoblique.woff') format('woff'), url('ttf/iosevka-murali-thinoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Murali Web Oblique';
+	font-weight: 100;
+	src: url('woff2/iosevka-murali-thinoblique.woff2') format('woff2'), url('woff/iosevka-murali-thinoblique.woff') format('woff'), url('ttf/iosevka-murali-thinoblique.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 100;
-	font-style: oblique;
-	src: url('woff2/iosevka-murali-thinoblique.woff2') format('woff2'), url('woff/iosevka-murali-thinoblique.woff') format('woff'), url('ttf/iosevka-murali-thinoblique.ttf') format('truetype');
+	font-style: italic;
+	src: url('woff2/iosevka-murali-thinitalic.woff2') format('woff2'), url('woff/iosevka-murali-thinitalic.woff') format('woff'), url('ttf/iosevka-murali-thinitalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -30,15 +36,21 @@
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 200;
-	font-style: italic;
-	src: url('woff2/iosevka-murali-extralightitalic.woff2') format('woff2'), url('woff/iosevka-murali-extralightitalic.woff') format('woff'), url('ttf/iosevka-murali-extralightitalic.ttf') format('truetype');
+	font-style: oblique;
+	src: url('woff2/iosevka-murali-extralightoblique.woff2') format('woff2'), url('woff/iosevka-murali-extralightoblique.woff') format('woff'), url('ttf/iosevka-murali-extralightoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Murali Web Oblique';
+	font-weight: 200;
+	src: url('woff2/iosevka-murali-extralightoblique.woff2') format('woff2'), url('woff/iosevka-murali-extralightoblique.woff') format('woff'), url('ttf/iosevka-murali-extralightoblique.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 200;
-	font-style: oblique;
-	src: url('woff2/iosevka-murali-extralightoblique.woff2') format('woff2'), url('woff/iosevka-murali-extralightoblique.woff') format('woff'), url('ttf/iosevka-murali-extralightoblique.ttf') format('truetype');
+	font-style: italic;
+	src: url('woff2/iosevka-murali-extralightitalic.woff2') format('woff2'), url('woff/iosevka-murali-extralightitalic.woff') format('woff'), url('ttf/iosevka-murali-extralightitalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -51,15 +63,21 @@
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 300;
-	font-style: italic;
-	src: url('woff2/iosevka-murali-lightitalic.woff2') format('woff2'), url('woff/iosevka-murali-lightitalic.woff') format('woff'), url('ttf/iosevka-murali-lightitalic.ttf') format('truetype');
+	font-style: oblique;
+	src: url('woff2/iosevka-murali-lightoblique.woff2') format('woff2'), url('woff/iosevka-murali-lightoblique.woff') format('woff'), url('ttf/iosevka-murali-lightoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Murali Web Oblique';
+	font-weight: 300;
+	src: url('woff2/iosevka-murali-lightoblique.woff2') format('woff2'), url('woff/iosevka-murali-lightoblique.woff') format('woff'), url('ttf/iosevka-murali-lightoblique.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 300;
-	font-style: oblique;
-	src: url('woff2/iosevka-murali-lightoblique.woff2') format('woff2'), url('woff/iosevka-murali-lightoblique.woff') format('woff'), url('ttf/iosevka-murali-lightoblique.ttf') format('truetype');
+	font-style: italic;
+	src: url('woff2/iosevka-murali-lightitalic.woff2') format('woff2'), url('woff/iosevka-murali-lightitalic.woff') format('woff'), url('ttf/iosevka-murali-lightitalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -72,15 +90,21 @@
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 400;
-	font-style: italic;
-	src: url('woff2/iosevka-murali-italic.woff2') format('woff2'), url('woff/iosevka-murali-italic.woff') format('woff'), url('ttf/iosevka-murali-italic.ttf') format('truetype');
+	font-style: oblique;
+	src: url('woff2/iosevka-murali-oblique.woff2') format('woff2'), url('woff/iosevka-murali-oblique.woff') format('woff'), url('ttf/iosevka-murali-oblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Murali Web Oblique';
+	font-weight: 400;
+	src: url('woff2/iosevka-murali-oblique.woff2') format('woff2'), url('woff/iosevka-murali-oblique.woff') format('woff'), url('ttf/iosevka-murali-oblique.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 400;
-	font-style: oblique;
-	src: url('woff2/iosevka-murali-oblique.woff2') format('woff2'), url('woff/iosevka-murali-oblique.woff') format('woff'), url('ttf/iosevka-murali-oblique.ttf') format('truetype');
+	font-style: italic;
+	src: url('woff2/iosevka-murali-italic.woff2') format('woff2'), url('woff/iosevka-murali-italic.woff') format('woff'), url('ttf/iosevka-murali-italic.ttf') format('truetype');
 }
 
 @font-face {
@@ -93,15 +117,21 @@
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 500;
-	font-style: italic;
-	src: url('woff2/iosevka-murali-mediumitalic.woff2') format('woff2'), url('woff/iosevka-murali-mediumitalic.woff') format('woff'), url('ttf/iosevka-murali-mediumitalic.ttf') format('truetype');
+	font-style: oblique;
+	src: url('woff2/iosevka-murali-mediumoblique.woff2') format('woff2'), url('woff/iosevka-murali-mediumoblique.woff') format('woff'), url('ttf/iosevka-murali-mediumoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Murali Web Oblique';
+	font-weight: 500;
+	src: url('woff2/iosevka-murali-mediumoblique.woff2') format('woff2'), url('woff/iosevka-murali-mediumoblique.woff') format('woff'), url('ttf/iosevka-murali-mediumoblique.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 500;
-	font-style: oblique;
-	src: url('woff2/iosevka-murali-mediumoblique.woff2') format('woff2'), url('woff/iosevka-murali-mediumoblique.woff') format('woff'), url('ttf/iosevka-murali-mediumoblique.ttf') format('truetype');
+	font-style: italic;
+	src: url('woff2/iosevka-murali-mediumitalic.woff2') format('woff2'), url('woff/iosevka-murali-mediumitalic.woff') format('woff'), url('ttf/iosevka-murali-mediumitalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -114,15 +144,21 @@
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 600;
-	font-style: italic;
-	src: url('woff2/iosevka-murali-semibolditalic.woff2') format('woff2'), url('woff/iosevka-murali-semibolditalic.woff') format('woff'), url('ttf/iosevka-murali-semibolditalic.ttf') format('truetype');
+	font-style: oblique;
+	src: url('woff2/iosevka-murali-semiboldoblique.woff2') format('woff2'), url('woff/iosevka-murali-semiboldoblique.woff') format('woff'), url('ttf/iosevka-murali-semiboldoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Murali Web Oblique';
+	font-weight: 600;
+	src: url('woff2/iosevka-murali-semiboldoblique.woff2') format('woff2'), url('woff/iosevka-murali-semiboldoblique.woff') format('woff'), url('ttf/iosevka-murali-semiboldoblique.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 600;
-	font-style: oblique;
-	src: url('woff2/iosevka-murali-semiboldoblique.woff2') format('woff2'), url('woff/iosevka-murali-semiboldoblique.woff') format('woff'), url('ttf/iosevka-murali-semiboldoblique.ttf') format('truetype');
+	font-style: italic;
+	src: url('woff2/iosevka-murali-semibolditalic.woff2') format('woff2'), url('woff/iosevka-murali-semibolditalic.woff') format('woff'), url('ttf/iosevka-murali-semibolditalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -135,15 +171,21 @@
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 700;
-	font-style: italic;
-	src: url('woff2/iosevka-murali-bolditalic.woff2') format('woff2'), url('woff/iosevka-murali-bolditalic.woff') format('woff'), url('ttf/iosevka-murali-bolditalic.ttf') format('truetype');
+	font-style: oblique;
+	src: url('woff2/iosevka-murali-boldoblique.woff2') format('woff2'), url('woff/iosevka-murali-boldoblique.woff') format('woff'), url('ttf/iosevka-murali-boldoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Murali Web Oblique';
+	font-weight: 700;
+	src: url('woff2/iosevka-murali-boldoblique.woff2') format('woff2'), url('woff/iosevka-murali-boldoblique.woff') format('woff'), url('ttf/iosevka-murali-boldoblique.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 700;
-	font-style: oblique;
-	src: url('woff2/iosevka-murali-boldoblique.woff2') format('woff2'), url('woff/iosevka-murali-boldoblique.woff') format('woff'), url('ttf/iosevka-murali-boldoblique.ttf') format('truetype');
+	font-style: italic;
+	src: url('woff2/iosevka-murali-bolditalic.woff2') format('woff2'), url('woff/iosevka-murali-bolditalic.woff') format('woff'), url('ttf/iosevka-murali-bolditalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -156,15 +198,21 @@
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 800;
-	font-style: italic;
-	src: url('woff2/iosevka-murali-extrabolditalic.woff2') format('woff2'), url('woff/iosevka-murali-extrabolditalic.woff') format('woff'), url('ttf/iosevka-murali-extrabolditalic.ttf') format('truetype');
+	font-style: oblique;
+	src: url('woff2/iosevka-murali-extraboldoblique.woff2') format('woff2'), url('woff/iosevka-murali-extraboldoblique.woff') format('woff'), url('ttf/iosevka-murali-extraboldoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Murali Web Oblique';
+	font-weight: 800;
+	src: url('woff2/iosevka-murali-extraboldoblique.woff2') format('woff2'), url('woff/iosevka-murali-extraboldoblique.woff') format('woff'), url('ttf/iosevka-murali-extraboldoblique.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 800;
-	font-style: oblique;
-	src: url('woff2/iosevka-murali-extraboldoblique.woff2') format('woff2'), url('woff/iosevka-murali-extraboldoblique.woff') format('woff'), url('ttf/iosevka-murali-extraboldoblique.ttf') format('truetype');
+	font-style: italic;
+	src: url('woff2/iosevka-murali-extrabolditalic.woff2') format('woff2'), url('woff/iosevka-murali-extrabolditalic.woff') format('woff'), url('ttf/iosevka-murali-extrabolditalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -177,13 +225,19 @@
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 900;
-	font-style: italic;
-	src: url('woff2/iosevka-murali-heavyitalic.woff2') format('woff2'), url('woff/iosevka-murali-heavyitalic.woff') format('woff'), url('ttf/iosevka-murali-heavyitalic.ttf') format('truetype');
+	font-style: oblique;
+	src: url('woff2/iosevka-murali-heavyoblique.woff2') format('woff2'), url('woff/iosevka-murali-heavyoblique.woff') format('woff'), url('ttf/iosevka-murali-heavyoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Murali Web Oblique';
+	font-weight: 900;
+	src: url('woff2/iosevka-murali-heavyoblique.woff2') format('woff2'), url('woff/iosevka-murali-heavyoblique.woff') format('woff'), url('ttf/iosevka-murali-heavyoblique.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: 'Iosevka Murali Web';
 	font-weight: 900;
-	font-style: oblique;
-	src: url('woff2/iosevka-murali-heavyoblique.woff2') format('woff2'), url('woff/iosevka-murali-heavyoblique.woff') format('woff'), url('ttf/iosevka-murali-heavyoblique.ttf') format('truetype');
+	font-style: italic;
+	src: url('woff2/iosevka-murali-heavyitalic.woff2') format('woff2'), url('woff/iosevka-murali-heavyitalic.woff') format('woff'), url('ttf/iosevka-murali-heavyitalic.ttf') format('truetype');
 }

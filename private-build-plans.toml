@@ -1,6 +1,6 @@
 [buildPlans.iosevka-murali]                         # <iosevka-custom> is your plan name
 family = "Iosevka Murali"                           # Font menu family name
-design = ["slab", "ss08", "expanded"] # Customize styles
+design = ["ss09", "expanded"] # Customize styles
 
 [buildPlans.iosevka-murali-slab]
 family = "Iosevka Murali Slab"
